@@ -53,7 +53,7 @@ All female avatars take 10.
 [Spinner] Take 1 for every friend in the world currently on orange.
 [Spinner] Take 5 for every friend currently on red.
 [Spinner] Change your status to "Will ERP for liquor" If you don't take 15.
-[Spinner] Change your status to "Looking to cuddle" for 5 turns. Take 2 for every invite you get.
+[Spinner] Change your status to "Looking to cuddle" for 5 turns. Take 2 for every invite/DM you get.
 [Everyone] First person to raise their hands gives 15.
 [Everyone] Take a shot.
 [Everyone] Take 1 for every person hovering at the table but not playing.
@@ -89,3 +89,4 @@ All female avatars take 10.
 [Spinner] Give 5.
 [Everyone] If you have been apart of a drinking song tonight take 5. If it was 'A Milli' take 2.
 [Everyone] If you think you haven't drank enough. Take 5.
+[Spinner] Pick a drinking song [A Milli, Becoming Insane, Around the world(The long one)]
